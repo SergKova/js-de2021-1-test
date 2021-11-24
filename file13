@@ -1,0 +1,949 @@
+    1  sudo apt install git
+    2  y
+    3  yes
+    4  ls
+    5  ls -i
+    6  mkdir
+    7  ls -a
+    8  ls -i -a
+    9  cd -cache
+   10  cd -L
+   11  cd -e
+   12  ls
+   13  ls -a
+   14  ls -l
+   15  cd pictures 
+   16  cd ~
+   17  pwd
+   18  mkdir test new student
+   19  ls
+   20  rmdir test new student
+   21  ls
+   22  touch file1
+   23  ls
+   24  test-area
+   25  clear
+   26  mkdir test area
+   27  ls
+   28  rm test area file1
+   29  ls
+   30  mkdir test-area
+   31  ls
+   32  cd test-area
+   33  mkdir test-project
+   34  cd test-project
+   35  mkdir file1 file2 index style
+   36  ls
+   37  cd ..
+   38  mkdir file.common
+   39  mkdir file.dev
+   40  rm test-project
+   41  cd ..
+   42  rm test-project
+   43  cd test-project
+   44  mkdir test-project
+   45  ls
+   46  cd test-area
+   47  ls
+   48  cd test-project
+   49  touch file1 file2 index style
+   50  cd ..
+   51  ls
+   52  mkdir project-home
+   53  cd project-home
+   54  cd ~
+   55  rm -R test-area
+   56  ls
+   57  rm -R test-project area test
+   58  ls
+   59  cler
+   60  clear
+   61  cat
+   62  man cat
+   63  ls
+   64  hello
+   65  clear
+   66  touch file1
+   67  ls > file1
+   68  cat file1
+   69  touch file2
+   70  ls -l ls > file2
+   71  ls
+   72  rm -r file1 file2
+   73  ls
+   74  cd document
+   75  cd 
+   76  dseded5~zzzx
+   77  x
+   78  ls
+   79  cd шаблоны
+   80  pwd
+   81  cd snap
+   82  cd ..
+   83  cd Музыка
+   84  touch file1
+   85  lsls
+   86  ls
+   87  ls >file1
+   88  ls
+   89  ls -l
+   90  cat file1
+   91  cat ls >file1
+   92  cat ls
+   93  nam cat
+   94  man cat
+   95  cat -A
+   96  cd Музыка
+   97  ды
+   98  ls
+   99  ls -l
+  100  ls -l file1
+  101  ls 
+  102  cat file1
+  103  ls
+  104  touch file2
+  105  ls
+  106  cat file1 file2
+  107  ls
+  108  ls -i
+  109  ls -l
+  110  cd ..
+  111  ls
+  112  ls -l
+  113  ls -l >file1
+  114  ls
+  115  cd file1
+  116  pwd file1
+  117  cat file1
+  118  ls -a
+  119  ls -a >file1
+  120  cat file1
+  121  ls
+  122  ls >file1
+  123  cat file1
+  124  ls -l >>file1
+  125  cat file1
+  126  ls >file1
+  127  ls -l >file2
+  128  cat file1 file2 >file3
+  129  ls
+  130  cat file3
+  131  ls
+  132  rm -r file1
+  133  ls
+  134  rm -r file2 file3
+  135  ls
+  136  cd Музыка
+  137  ls
+  138  rm file1
+  139  ls
+  140  rm file2
+  141  ls
+  142  ls -l
+  143  
+  144  Шаблоны
+  145  Шаблоны
+  146  Шаблоны
+  147  Изображенияидео
+  148  идео
+  149  ls  Шаблоны
+  150  inux:~$ Шаблоны
+  151  Шаблоны: команда не найдена
+  152  ls
+  153  apt visual studio code
+  154  ls
+  155  cd Загрузки
+  156  sudo dpkg -i code_1.62.3-1637137107_amd64.deb
+  157  cd Загрузки
+  158  ls
+  159  man
+  160  man cat
+  161  clear
+  162  cd ..
+  163  cd ~
+  164  mkdir task1
+  165  cd task1
+  166  touch fileA fileF file2
+  167  ls
+  168  rm file[[:ulnum:]][!F]
+  169  rm file[[:ulnum:]]
+  170  rm file[2A]
+  171  ls
+  172  cd -
+  173  mkdir task2
+  174  touch index.js index.html style.css script.js
+  175  ls
+  176  rm .js
+  177  rm [.js]
+  178  ls
+  179  rm [js]
+  180  rm .js
+  181  rm index.js
+  182  ls
+  183  cd task2
+  184  ls
+  185  touch 123file file123 file123file 123_test
+  186  ls
+  187  rm *[!123_test]
+  188  ls
+  189  rm *[!123_test]
+  190  rm * [!123_test]
+  191  ls
+  192  touch 123file file123 file123file 123_test
+  193  ls
+  194  rm * [!123_test]
+  195  ls
+  196  touch 123file file123 file123file 123_test
+  197  rm *[!123file]
+  198  ls
+  199  touch 123file file123 file123file 123_test
+  200  ls
+  201  rm *[!123file]
+  202  ls
+  203  rm *
+  204  ls
+  205  touch 123file file123 file123file 123_test
+  206  ls
+  207  clear
+  208  ls
+  209  rm *[!123_test]
+  210  ls
+  211  rm *[!123_test]
+  212  rm -r*[!123_test]
+  213  ls
+  214  rm -r[123_test]
+  215  ls
+  216  clear
+  217  ls
+  218  rm *[!123_test]*
+  219  ls
+  220  touch 123file file123 file123file 123_test
+  221  clear
+  222  ls
+  223  rm *[alnum]
+  224  rm *[alnum]*
+  225  ls
+  226  touch 123file file123 file123file 123_test
+  227  ls
+  228  rm *[alnum]*
+  229  ls
+  230  touch 123file file123 file123file 123_test
+  231  lscd -
+  232  clear
+  233  ls
+  234  touch fileA fileB
+  235  ls
+  236  rm [[:upper:]]
+  237  man [[:ulnum:]]
+  238  help [[:ulnum:]]
+  239  clear
+  240  touch afdfd.txt akjkjk24.txt
+  241  ls
+  242  rm a[.txt]
+  243  ls
+  244  rm [a].txt
+  245  rm .txt
+  246  rm txt
+  247  ls
+  248  clear
+  249  ls
+  250  rm a*.txt
+  251  ls
+  252  rm -r*
+  253  ls
+  254  rm -r *
+  255  ls
+  256  touch defefre.html feefer.html file2 file3
+  257  clear
+  258  ls
+  259  mv *[html] 
+  260  mkdir task
+  261  mv *[html] task
+  262  ls
+  263  cd task
+  264  ls
+  265  cd - 
+  266  ls
+  267  clear
+  268  ls
+  269  touch file1
+  270  ln -s ./sandbox/file1 ../soft-link-to-file1
+  271  cd ..
+  272  ls -l
+  273  cd -
+  274  ls
+  275  cd
+  276  ls
+  277  mkdir sandisk
+  278  cd sandisk
+  279  touch file1 file2 file3 file4
+  280  ls
+  281  mv ./file1/ ./документы
+  282  mv ./file1/* ./документы
+  283  св юю
+  284  cd ..
+  285  ls
+  286  cd -
+  287  mv ./file1/* ./Документы
+  288  ls
+  289  cp file2 Документы
+  290  ls
+  291  mv file1 Документы
+  292  ls
+  293  cd Документы
+  294  touch file1
+  295  ls
+  296  clear
+  297  cd ..
+  298  ls
+  299  mkdir sanbox
+  300  ls
+  301  cd sanbox
+  302  touch file1 file2 file3 file4
+  303  ls
+  304  mv file1 ..
+  305  ls
+  306  cp file2 file222
+  307  ls
+  308  mv file3 file-name
+  309  ls
+  310  mv file4 ~/Видео/new-file
+  311  ls
+  312  cd ..
+  313  ls
+  314  cd -
+  315  ls
+  316  clear
+  317  ls
+  318  ln file2 softlink1
+  319  ls
+  320  touch file3
+  321  ln file3 hardlink
+  322  ls
+  323  cat hardlink
+  324  ls > hardlink
+  325  mv file2 file3
+  326  ls
+  327  cat softlink
+  328  mv file3 file2
+  329  ls
+  330  cd..
+  331  cd ..
+  332  rm - r sanbox
+  333  rm -r sanbox
+  334  ls
+  335  rm file1
+  336  rm -r sandisk
+  337  ls
+  338  ls -n
+  339  ls -N
+  340  ls -li
+  341  clear
+  342  ls
+  343  mkdir sanbox
+  344  ls
+  345  mkdir sandbox
+  346  rm -r sanbox
+  347  ls
+  348  cd sandbox
+  349  ls
+  350  mkdir sandbox
+  351  cd sandbox
+  352  ls
+  353  cd 'Рабочий стол'
+  354  mkdir test
+  355  cd test
+  356  mkdir test-directory
+  357  cd test-directory
+  358  touch file1
+  359  cd -
+  360  ls
+  361  cp ./file1 ./test
+  362  cd -
+  363  ls
+  364  cd -
+  365  ls
+  366  rm -r file1 test
+  367  ls
+  368  cd -
+  369  touch file1
+  370  ls
+  371  cp ./file ./test-directory
+  372  cp ./file ./test-directory/
+  373  cp file ./test-directory/
+  374  cp file1 ./test-directory/
+  375  cd test-directory/
+  376  ls
+  377  clear
+  378  ls
+  379  cd -
+  380  mkdir test
+  381  ls
+  382  touch file2 file3
+  383  ls
+  384  cp -R ./test ./test-directory/
+  385  ls -R
+  386  mv -R ./test ./test-directory/
+  387  mv ./test ./test-directory/
+  388  ls -R
+  389  ls
+  390  man 7 glob
+  391  cd 'Рабочий стол'/
+  392  mkdir sandbox
+  393  ls
+  394  cd sandbox
+  395  touch file1 file2 file3 file4
+  396  mv ./file1 ./Документы
+  397  mv ./file1 ./.Документы
+  398  ls
+  399  touch file1
+  400  mv ./file1 ./.Документы
+  401  ls
+  402  touch file1
+  403  mv ./file1 ../.Документы
+  404  clear
+  405  ls
+  406  touch1
+  407  clear
+  408  touch file1
+  409  mv file1 ..
+  410  ls
+  411  cd -
+  412  ls
+  413  cd -
+  414  cp file2 ./
+  415  cp file2 file222
+  416  ls
+  417  mv file3 file-name
+  418  ls
+  419  clear
+  420  env
+  421  pwd
+  422  clear
+  423  ls
+  424  whereis ls
+  425  less
+  426  less ls
+  427  nano file2
+  428  cd sandbox
+  429  ls
+  430  mkdir sandbox
+  431  cd sandbox/
+  432  touch file{10..15}
+  433  ls
+  434  touch file{2,4,5,7}
+  435  ls
+  436  sort 
+  437  cd sandbox
+  438  ls
+  439  rm -*
+  440  rm *
+  441  ls
+  442  touch file*
+  443  ls
+  444  touch file/*
+  445  touch file\*
+  446  ls
+  447  rm *
+  448  ls
+  449  clear
+  450  touch file{1..9}
+  451  ls
+  452  file?
+  453  slocate
+  454  lacate
+  455  locate
+  456  clear
+  457  locate node >> result
+  458  cat result 
+  459  clear
+  460  wc -l result
+  461  locate LC
+  462  locate LC >> file1
+  463  locate file1 nuric
+  464  locate file1 address
+  465  clear
+  466  man wc
+  467  wc -w file1 address
+  468  locate code
+  469  locate code sort
+  470  man sort
+  471  sort -n locate code
+  472  env | grep LC > newresult 
+  473  cat newresult 
+  474  locate LC > newresult 
+  475  cat newresult 
+  476  env | grep LC > newresult 
+  477  locate code | sort > file1
+  478  cat file1
+  479  locate code > file1
+  480  cat file1
+  481  man sort
+  482  locate .js | sort -r > file2
+  483  cat file2
+  484  locate .js
+  485  locate .js | sort -r > file2
+  486  cat file2
+  487  locate history(ls) 
+  488  locate history[ls]
+  489  locate history[ls] > file2
+  490  cat file2
+  491  locate code
+  492  env | grep LC > newresult 
+  493  cat newresult 
+  494  env | locate LC > newresult 
+  495  cat newresult 
+  496  grep newresult address
+  497  env | locate LC > newresult 
+  498  cat newresult 
+  499  env | grep LC > newresult
+  500  cat newresult 
+  501  env | grep LC -i > newresult
+  502  cat newresult 
+  503  grep numeric ./enult
+  504  grep numeric ./newresult 
+  505  grep address ./newresult 
+  506  clear
+  507  ls
+  508  cd newresault
+  509  grep address ./envresult
+  510  grep address ./newresult 
+  511  cat newresult 
+  512  grep address ./newresult 
+  513  env
+  514  clear
+  515  locate '.js'\b > jrc
+  516  cat jrc
+  517  locate '*.js' > jsre
+  518  cat jsre
+  519  clear
+  520  ls
+  521  rm *
+  522  ls
+  523  locate '.js' > file
+  524  kate
+  525  xeyes
+  526  clear
+  527  xlogo
+  528  xeyes
+  529  jobs
+  530  bg 3
+  531  fg 3
+  532  bg 3
+  533  ps -x
+  534  killall xeyes
+  535  ps -x
+  536  kill -9 5500
+  537  killall -9 xlogo
+  538  clear
+  539  xeyes
+  540  ps -x
+  541  killall -9 xeyes
+  542  clear
+  543  kate
+  544  jobs
+  545  bg 1
+  546  ps -x
+  547  kill 5550
+  548  clear
+  549  xeyes
+  550  fg 1
+  551  ps -x
+  552  kill 5578
+  553  kill -9 xeyes
+  554  ps -x
+  555  kill 5578
+  556  kill -9 5578
+  557  clear
+  558  ls -l
+  559  touch file1
+  560  ls -l
+  561  mkdir erwer
+  562  ls -l
+  563  ls -l/bin
+  564  ls -l /bin
+  565  ls -l /usr/bin
+  566  nano file1
+  567  clear
+  568  touch script
+  569  nano script
+  570  cat script
+  571  nano script
+  572  cat script
+  573  chmod u+x script
+  574  ls -ls
+  575  ./ script
+  576  ./script
+  577  ls -l
+  578  chmod u-x,g=r,0= ./script 
+  579  ls -l
+  580  chmod 357 ./script
+  581  ls -l
+  582  clear
+  583  sudo su
+  584  clear
+  585  whoami
+  586  ls
+  587  mkdir Домашнее задание
+  588  ls
+  589  rmdir Домашнее задание
+  590  ls
+  591  mkdir Домашнее_задание
+  592  cd Домашнее_задание/
+  593  touch file[1..3]
+  594  ls
+  595  touch file{1..3}
+  596  ls
+  597  rm 'file[1..3]'
+  598  ls
+  599  clear
+  600  chmod u=rwx,g=rw,o=r ./file1
+  601  ls -l
+  602  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  603  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  604  итого 0
+  605  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  606  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  607  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  608  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  609  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  610  итого 0
+  611  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  612  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  613  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  614  serhey@serhey-linux:~/Домашнее_задание$ 
+  615  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  616  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  617  итого 0
+  618  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  619  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  620  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  621  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  622  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  623  итого 0
+  624  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  625  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  626  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  627  serhey@serhey-linux:~/Домашнее_задание$ 
+  628  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  629  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  630  итого 0
+  631  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  632  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  633  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  634  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  635  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  636  итого 0
+  637  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  638  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  639  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  640  serhey@serhey-linux:~/Домашнее_задание$ 
+  641  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  642  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  643  итого 0
+  644  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  645  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  646  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  647  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  648  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  649  итого 0
+  650  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  651  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  652  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  653  serhey@serhey-linux:~/Домашнее_задание$ 
+  654  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  655  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  656  итого 0
+  657  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  658  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  659  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  660  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  661  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  662  итого 0
+  663  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  664  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  665  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  666  serhey@serhey-linux:~/Домашнее_задание$ 
+  667  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  668  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  669  итого 0
+  670  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  671  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  672  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  673  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  674  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  675  итого 0
+  676  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  677  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  678  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  679  serhey@serhey-linux:~/Домашнее_задание$ 
+  680  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  681  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  682  итого 0
+  683  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  684  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  685  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  686  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  687  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  688  итого 0
+  689  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  690  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  691  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  692  serhey@serhey-linux:~/Домашнее_задание$ 
+  693  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  694  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  695  итого 0
+  696  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  697  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  698  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  699  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  700  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  701  итого 0
+  702  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  703  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  704  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  705  serhey@serhey-linux:~/Домашнее_задание$ 
+  706  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  707  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  708  итого 0
+  709  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  710  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  711  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  712  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  713  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  714  итого 0
+  715  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  716  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  717  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  718  serhey@serhey-linux:~/Домашнее_задание$ 
+  719  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  720  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  721  итого 0
+  722  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  723  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  724  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  725  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  726  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  727  итого 0
+  728  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  729  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  730  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  731  serhey@serhey-linux:~/Домашнее_задание$ 
+  732  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  733  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  734  итого 0
+  735  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  736  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  737  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  738  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  739  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  740  итого 0
+  741  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  742  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  743  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  744  serhey@serhey-linux:~/Домашнее_задание$ 
+  745  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  746  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  747  итого 0
+  748  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  749  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  750  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  751  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  752  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  753  итого 0
+  754  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  755  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  756  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  757  serhey@serhey-linux:~/Домашнее_задание$ 
+  758  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  759  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  760  итого 0
+  761  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  762  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  763  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  764  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  765  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  766  итого 0
+  767  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  768  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  769  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  770  serhey@serhey-linux:~/Домашнее_задание$ 
+  771  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  772  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  773  итого 0
+  774  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  775  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  776  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  777  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  778  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  779  итого 0
+  780  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  781  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  782  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  783  serhey@serhey-linux:~/Домашнее_задание$ 
+  784  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  785  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  786  итого 0
+  787  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  788  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  789  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  790  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  791  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  792  итого 0
+  793  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  794  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  795  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  796  serhey@serhey-linux:~/Домашнее_задание$ 
+  797  serhey@serhey-linux:~/Домашнее_задание$ chmod u=rw,g=r,o= ./file2
+  798  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  799  итого 0
+  800  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  801  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  802  -rw-rw-r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  803  serhey@serhey-linux:~/Домашнее_задание$ chmod u=r,g=r,o=r ./file3
+  804  serhey@serhey-linux:~/Домашнее_задание$ ls -l
+  805  итого 0
+  806  -rwxrw-r-- 1 serhey serhey 0 ноя 22 23:15 file1
+  807  -rw-r----- 1 serhey serhey 0 ноя 22 23:15 file2
+  808  -r--r--r-- 1 serhey serhey 0 ноя 22 23:15 file3
+  809  cd Домашнее_задание/
+  810  chmod u=rw,g=r,o= ./file2
+  811  ls -l
+  812  chmod u=r,g=r,o=r ./file3
+  813  ls -l
+  814  clear
+  815  chmod u=rwx,g=rw,o=r ./file1
+  816  chmod u=rw,g=r,o= ./file2
+  817  chmod u=r,g=r,o=r ./file3
+  818  ls -l
+  819  evc
+  820  clear
+  821  env | grep LC > file222
+  822  cat file222
+  823  env | grep [LC] > file222
+  824  cat file222
+  825  env > file222
+  826  cat file222
+  827  env | grep LC > file222
+  828  cat file222
+  829  env | grep [LC] > file222
+  830  cat file222
+  831  grep address ./file222
+  832  grep numeric ./file222
+  833  locate code | sort > file222
+  834  cat file222 
+  835  sort -r *[.js] > file1
+  836  sort -r ./file222*[.js] > file1
+  837  sort -r ./*[.js] > file1
+  838  man sort
+  839  locate *[.js] | sort > file1
+  840  cat file1
+  841  locate *[.js] > file1
+  842  cat file1
+  843  grep *[.js] > file1
+  844  cat file1
+  845  grep *[.js] | sort > file1
+  846  man grep
+  847  grep *[txt] | sort > file1
+  848  grep [ls]history
+  849  jobs
+  850  kill 1
+  851  grep history[ls]
+  852  locate '*.js' > ./Рабочий стол/file245
+  853  locate '*.js' > ./Рабочий_документ
+  854  cat Рабочий_документ 
+  855  locate '*.js' > ./Рабочий_документ
+  856  history | grep ls -l
+  857  history | grep ls 
+  858  clear
+  859  env | grep LC -i
+  860  env | grep LC -l
+  861  man grep
+  862  env | grep LC --ignore-case
+  863  env | grep LC --ignore-case | wc -l
+  864  clear
+  865  locate code | sort | wc -l
+  866  locate code | sort
+  867  clear
+  868  locate '*.js'
+  869  clear
+  870  cd sandbox
+  871  cd 'Рабочий стол'/
+  872  cd sandbox/
+  873  touch file{1,2,3}
+  874  ls
+  875  chmod u=rwx,g=rw,o=r
+  876  chmod u=rwx,g=rw,o=r file1
+  877  ls -l
+  878  cleaR
+  879  CLER
+  880  CLEAR
+  881  clear
+  882  sudo apt instal krita
+  883  sudo apt install krita
+  884  clear
+  885  sudo apt update
+  886  sudo apt upgrade
+  887  sudo apt git
+  888  sudo apt install git
+  889  git
+  890  git --version 
+  891  code --version 
+  892  clear
+  893  top
+  894  clear
+  895  ещз
+  896  top
+  897  ps -x
+  898  git config --global user.name "Kova"
+  899  git config --global user.email frits1087@gmail.com
+  900  git config --global core.editor kate
+  901  git config --global init.defaultBranch main
+  902  git config --global core.autocrlf input
+  903  git config --list
+  904  clear
+  905  cd ./'./Рабочий стол'/
+  906  mkdir all-projects
+  907  cd all-projects/
+  908  mkdir first-project
+  909  cd first-project/
+  910  touch index.css index.html script.js
+  911  git init
+  912  git status
+  913  git config --global init.defaultBranch main
+  914  git config --list
+  915  clear
+  916  git status
+  917  git add index.css index.html script.js 
+  918  git status
+  919  gti comit
+  920  git commit
+  921  clear
+  922  git status
+  923  git add index.css 
+  924  git status
+  925  git commit
+  926  git commit -m "re"
+  927  git log
+  928  git log --pretty=shor
+  929  clear
+  930  cd -
+  931  cd project1/
+  932  git unit
+  933  git init
+  934  git status
+  935  touch file1{1,2,3,4,5}
+  936  git status
+  937  git add file1{1,2,3,4,5}
+  938  git status
+  939  env > file11
+  940  git commit
+  941* 
+  942  git status
+  943* 
+  944  ls -l > file22\
+  945  git commit
+  946  git add file22 
+  947  git status
+  948  git commit
+  949  history > file13
